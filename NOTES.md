@@ -6,7 +6,7 @@ Mention of a public domain project does not necessarily constitute approval of i
 
 <h3> Code of Conduct: Keep Things "Family Friendly" </h3>
 
-Maintainer of this project asks that discussions and content is kept "family friendly" (use common sense)
+Maintainer of this project asks that discussions and content is kept "family friendly" (use common sense).
 
 <h3> Moderation: "Benevolent Dictator" </h3>
 
