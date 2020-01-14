@@ -48,12 +48,12 @@ we might have a lot of people willing to contribute to such a project. At presen
 
 <h3>Text Editors </h3>
 <p><a href="https://kakoune.org/"> Kakoune </a> seems like the clear winner here, as it is a new/modern project and is released in to the public domain. This is a great example of good current public domain software, the quality of which I hope the other mentioned categories can be brought up to. Some other projects I found that might be reworked or learned from:
-<p></a href="https://github.com/mamoniot/mtext"> MText </a></p>
-<p></a href="https://github.com/mooseman/pdeditor"> PDEditor(s) </a></p>
-<p></a href="https://sourceforge.net/projects/wed/"> WED, Windows Text Editor </a></p>
+<p><a href="https://github.com/mamoniot/mtext"> MText </a></p>
+<p><a href="https://github.com/mooseman/pdeditor"> PDEditor(s) </a></p>
+<p><a href="https://sourceforge.net/projects/wed/"> WED, Windows Text Editor </a></p>
 
 <h3> Image Editing </h3>
-<p></a href="https://github.com/timmyRS/Paintery">Paintery</a></p>
+<p><a href="https://github.com/timmyRS/Paintery">Paintery</a></p>
 
 <h3> Browser </h3>
 <p>This might be one of the more challenging ones, but maybe something of a CLI browser like links or lynx could be
@@ -66,8 +66,8 @@ made without a lot of difficulty, to at least get the ball rolling.</p>
 <p>From the core above, it would seem like the rest of the software that people want could just be added and subtracted as people need.</p>
 
 <h3> PD Software Listings </h3>
-<p></a href="https://unlicense.org/">Unlicense.org Lists</a></p>
-<p> </a href="https://github.com/johnjago/awesome-uncopyright#software"> Awesome-Uncopyright:Software </a> </p>
+<p><a href="https://unlicense.org/">Unlicense.org Lists</a></p>
+<p> <a href="https://github.com/johnjago/awesome-uncopyright#software"> Awesome-Uncopyright:Software </a> </p>
 
 <h3> Four Ways To Get More PD Software </h3>
 <p>1. Improve Current PD Projects</p>
