@@ -8,7 +8,7 @@ from a public domain operating system to the applications running on it, compara
 systems like Linux, Windows, or Mac, etc.
 </p>
 <p>
-Please see [NOTES.md](https://github.com/mirrorsonthewall/public-domain-software-system/blob/master/NOTES.md) for more project-specific rules of thumb. 
+Please see <a href="https://github.com/mirrorsonthewall/public-domain-software-system/blob/master/NOTES.md"> NOTES.md </a> for more project-specific rules of thumb. 
 </p>
 <p>Please note this is also a brand new work in progress!</p>
 
