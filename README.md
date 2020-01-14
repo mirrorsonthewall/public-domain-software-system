@@ -32,7 +32,7 @@ and not a full programming language?</p>
 <p>One of these projects could be reworked, or a new programming language could be created from scratch.</p>
 <p>The most promising project might be to rewrite one or both of the CMUCL/SBCL Common Lisp implementations, as <a href="https://www.cons.org/cmucl/">CMUCL</a> and <a href="http://www.sbcl.org/history.html">SBCL</a> are both mostly in the public domain except for some select files. If those non-PD files could be identified and rewritten, then forks like "PDCMUCL" and "PDSBCL" could be released.
 
-<h3> Public Domain Operating Systems (PD OSs)
+<h3> Public Domain Operating Systems (PD OSs)</h3>
 <p>Then, at some point, I expect a full public domain operating system will be created. 
 At first it will have simple features, but may grow to something like Linux is today. I expect this could take a long time,
 but I also think there are a growing number of people interested in public domain software projects, so I'm not sure if
