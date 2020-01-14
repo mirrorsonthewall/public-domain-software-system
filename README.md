@@ -39,18 +39,18 @@ but I also think there are a growing number of people interested in public domai
 we might have a lot of people willing to contribute to such a project. At present, the PD OS projects I could find online are:</p>
 <p><a href="https://templeos.org/"> TempleOS:</a> This project in itself was eclectic and is considered finished, so it may not be the ideal basis for a PDSS, however a fork called <a href="https://github.com/minexew/Shrine">ShrineOS</a> exists to attempt to build on TempleOS in a more "modern" way. I have considered possibly another fork like "TemplelessOS" that might strip the "Temple" aspect of TempleOS and keep the functional operating system parts; I have wondered if in any event some parts might be salvaged from this to move PD OS development forward, but I suspect probably a new or alternative project altogether might be picked to move a PDSS forward. TempleOS has, however, been said to be technically impressive for one person to have created.</p>
 <p><a href="http://pdos.sourceforge.net/">PDOS: Public Domain Operating System.</a> This appears to be the most active current effort to create a public domain operating system. Note how I have refered to PD OSs with that kind of spacing, to contrast with "the" singular PDOS project.</p>
-<p><a href="https://github.com/muazzamalikazmi/alotware">AlotwareOS</a>- I do not know how this compares to the others, it seems like a small project.</p>
-<p><a href="https://github.com/catseye/BefOS">BefOS</a>- Same as AlotwareOS, don't know how it compares and seems small, but either might have something the could be built upon or learned from, or the projects themselves might be functional to fork and build on.</p>
+<p><a href="https://github.com/muazzamalikazmi/alotware"> AlotwareOS </a>- I do not know how this compares to the others, it seems like a small project.</p>
+<p><a href="https://github.com/catseye/BefOS"> BefOS </a>- Same as AlotwareOS, don't know how it compares and seems small, but either might have something the could be built upon or learned from, or the projects themselves might be functional to fork and build on.</p>
 <p> In addition to these, I think there would be nothing wrong with starting up a new few projects from scratch, and I have an interest in trying that maybe at some point. </p>
   
 <h3> Shells </h3>
-<p>The most promising shell available seems to be the <a href="https://web.archive.org/web/20040216045828/http://web.cs.mun.ca/~michael/pdksh/"> Public Domain Korn Shell (pdksh),</a> which is mostly in the public domain except for a few files which I think are <a href="https://github.com/ibara/oksh/blob/master/LEGAL">identified here.</a> If those are the files or we could identify them and rewrite them, we could release a fpdksh (FULLY public domain korn shell...).</p>
+<p>The most promising shell available seems to be the <a href="https://web.archive.org/web/20040216045828/http://web.cs.mun.ca/~michael/pdksh/"> Public Domain Korn Shell (pdksh),</a> which is mostly in the public domain except for a few files which I think are <a href="https://github.com/ibara/oksh/blob/master/LEGAL"> identified here. </a> If those are the files or we could identify them and rewrite them, we could release a fpdksh (FULLY public domain korn shell...).</p>
 
 <h3>Text Editors </h3>
-<p><a href="https://kakoune.org/">Kakoune</a> seems like the clear winner here, as it is a new/modern project and is released in to the public domain. This is a great example of good current public domain software, the quality of which I hope the other mentioned categories can be brought up to. Some other projects I found that might be reworked or learned from:
-<p></a href="https://github.com/mamoniot/mtext">MText</a></p>
-<p></a href="https://github.com/mooseman/pdeditor">PDEditor(s)</a></p>
-<p></a href="https://sourceforge.net/projects/wed/">WED, Windows Text Editor</a></p>
+<p><a href="https://kakoune.org/"> Kakoune </a> seems like the clear winner here, as it is a new/modern project and is released in to the public domain. This is a great example of good current public domain software, the quality of which I hope the other mentioned categories can be brought up to. Some other projects I found that might be reworked or learned from:
+<p></a href="https://github.com/mamoniot/mtext"> MText </a></p>
+<p></a href="https://github.com/mooseman/pdeditor"> PDEditor(s) </a></p>
+<p></a href="https://sourceforge.net/projects/wed/"> WED, Windows Text Editor </a></p>
 
 <h3> Image Editing </h3>
 <p></a href="https://github.com/timmyRS/Paintery">Paintery</a></p>
