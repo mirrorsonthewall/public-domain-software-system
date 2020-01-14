@@ -60,7 +60,7 @@ we might have a lot of people willing to contribute to such a project. At presen
 made without a lot of difficulty, to at least get the ball rolling.</p>
 
 <h3> Games</h3>
-<p> ... </p>
+<p> I didn't find any, but I'm sure more can be added in time. </p>
 
 <h3> Other Software As Desired And Needed </h3>
 <p>From the core above, it would seem like the rest of the software that people want could just be added and subtracted as people need.</p>
