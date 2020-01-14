@@ -67,7 +67,7 @@ made without a lot of difficulty, to at least get the ball rolling.</p>
 
 <h3> PD Software Listings </h3>
 <p></a href="https://unlicense.org/">Unlicense.org Lists</a></p>
-<p></a href="https://github.com/johnjago/awesome-uncopyright#software">Awesome-Uncopyright:Software</a></p>
+<p> </a href="https://github.com/johnjago/awesome-uncopyright#software"> Awesome-Uncopyright:Software </a> </p>
 
 <h3> Four Ways To Get More PD Software </h3>
 <p>1. Improve Current PD Projects</p>
