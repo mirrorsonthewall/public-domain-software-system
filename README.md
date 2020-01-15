@@ -18,7 +18,9 @@ Please see <a href="https://github.com/mirrorsonthewall/public-domain-software-s
 <p> <a href="https://creativecommons.org/choose/zero/"> CC0: Creative Commons Zero. </a> Some concerns were raised over if
 this license released patent copyrights; if not, couldn't the license be "patched" or slightly altered to cover that, if
 it were possible?
-<p> <a href="https://wtdhpl.info/"> "What The Darn Heck" Public License, </a> I think created in response to another license that used a curse word in its title, I think this is an equivalent license but am not sure.
+<p> <a href="https://wtdhpl.info/"> "Do What The Darned Heck You Want To" Public License, </a> 
+I think created in response to another license that used a curse word in its title, 
+  I think this is an equivalent license but am not sure.
   
 <p> Another question I've had is about how people might readily determine if their code can be released in to the public
 domain (or how they can tell if it has elements that might not make it suitable for releasing in to the public domain).
