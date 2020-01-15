@@ -15,8 +15,18 @@ Please see <a href="https://github.com/mirrorsonthewall/public-domain-software-s
 <h3> Addressing Licensing Issues </h3>
 <p>If there are issues surrounding public domain licenses, that might be among the top issues to talk about, as creating a solid foundation to build upon. Some suggested licenses have been:</p>
 <p> <a href="https://unlicense.org"> Unlicense </a>
-<p> ...more to come... </p>
+<p> <a href="https://creativecommons.org/choose/zero/"> CC0: Creative Commons Zero. </a> Some concerns were raised over if
+this license released patent copyrights; if not, couldn't the license be "patched" or slightly altered to cover that, if
+it were possible?
+<p> <a href="https://wtdhpl.info/"> "What The Darn Heck" Public License, </a> I think created in response to another license that used a curse word in its title, I think this is an equivalent license but am not sure.
+  
+<p> Another question I've had is about how people might readily determine if their code can be released in to the public
+domain (or how they can tell if it has elements that might not make it suitable for releasing in to the public domain).
 
+<p> A last questions was, if you were to get inspiration from something that already exists, about how "different" your code
+should be to avoid it being subject to copyrights. It seems likely there should be some writing on this out there because
+"knock-off" or "inspired" software pieces were created under other licenses.
+  
 <h3> Open Hardware </h3>
 <p>Because of the difficulty of writing drivers, it might be wise to focus on writing software for specific chosen hardware,
   and possibly some open hardware like the <a href="https://www.crowdsupply.com/sutajio-kosagi/novena"> Novena Project </a> might be a good choice.
@@ -68,6 +78,7 @@ made without a lot of difficulty, to at least get the ball rolling.</p>
 <h3> PD Software Listings </h3>
 <p><a href="https://unlicense.org/">Unlicense.org Lists</a></p>
 <p> <a href="https://github.com/johnjago/awesome-uncopyright#software"> Awesome-Uncopyright:Software </a> </p>
+<p> <a href="https://en.wikipedia.org/wiki/Public-domain_software"> Public Domain Software (Wikipedia) </a> </p>
 
 <h3> Four Ways To Get More PD Software </h3>
 <p>1. Improve Current PD Projects</p>
